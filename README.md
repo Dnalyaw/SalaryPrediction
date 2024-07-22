@@ -1,0 +1,2 @@
+The first file is based on a database what is semi-large but has the data of the same 12 unique jobs. The Machine Learning Goal is about making a simple regression algorithm to predict salary based off one of several common job entries.
+The second file is based on a database with hundreds of unique job entries and uses a NLP count vectorizer to classify certain words (such as Senior, Business, Engineer, etc.) and is definitely more accurate in predicting the prices of certain jobs.
